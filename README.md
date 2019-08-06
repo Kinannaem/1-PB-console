@@ -13,7 +13,7 @@ Make your own JavaScript file and work from there. Open up your terminal in VS C
 4. Make a profile of someone's information. Store all the information in variables eg. name, city, job etc. (five variables total) Console log the variables. 
 
 
-5. Print the sentence "John Smith is a 43 year old teacher who lives in Berlin" using variables (where possible) and text. **you can combine variables with text in the console by using the plus symbol (+) e.g. console.log("this is a " + variable);** 
+5. Print a sentence using the profile variables above, adding text where necessary for sentence flow, "John Smith is a 43 year old teacher who lives in Berlin". **you can combine variables with text in the console by using the plus symbol (+) e.g. console.log("this is a " + variable);** 
 
 
 
