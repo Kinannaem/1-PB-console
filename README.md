@@ -1,6 +1,6 @@
 # Programming Basics: Getting Started 
 
-## These exercises are aimed at making you familiar with using node to run your scripts & the console.log() method. Run your script for each exercise in node, to check that it works. Remember to use camelCase where needed.
+These exercises are aimed at making you familiar with using node to run your scripts & the console.log() method. Run your script for each exercise in node, to check that it works. Remember to use camelCase where needed.
 
 Make your own JavaScript file and work from there. Open up your terminal in VS Code.  
 
