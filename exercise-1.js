@@ -26,7 +26,7 @@ console.log(
     " " +
     surname +
     " is" +
-    " a " +
+    " a  " +
     familyStatus +
     " " +
     nationality +
